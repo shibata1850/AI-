@@ -1,0 +1,7 @@
+echo "# AI-" >> README.md 
+git init 
+git add README.md 
+git commit -m "最初のコミット" 
+git branch -M main 
+git remote add origin https://github.com/shibata1850/AI-.git
+ git push -u origin main
